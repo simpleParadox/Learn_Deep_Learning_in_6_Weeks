@@ -21,6 +21,8 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 - [ ] Read all 3 lecture notes under Module 2 for Karpathy CNN course found [here](http://cs231n.github.io/)
 - [ ] Watch my video on CNNs [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s)
 - [ ] Write out a simple CNN yourself (using no ML libraries)
+- [ ] Learn Keras. Follow this tutorial. Find more [here](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+- [ ] Code a CNN with Keras. Find more [here](https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/)
 
 ## Week 3 - Recurrent Networks
 
@@ -46,4 +48,6 @@ This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube
 ## Week 6 - Deep Reinforcement Learning
 - [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/) 
 - [ ] Build a Deep Q Network using Tensorflow
+
+
 
